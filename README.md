@@ -7,4 +7,4 @@ $ cd MR-X
 
 $ls
 
-$ MRX.py
+$ python MRX.py
