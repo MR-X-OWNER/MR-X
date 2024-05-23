@@ -1,5 +1,5 @@
 # MR-X-OWNER 
-# MR-X Toola Run Command ↓
+# MR-X Tools Run Command ↓
 
 $ git clone https://github.com/MR-X-OWNER/MR-X.git
 
